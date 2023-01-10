@@ -1,5 +1,5 @@
 # 2019-Kaggle-Comp-Skin-Cancer-Classification
-Classification of skin lesions has benign or malignant. Very simple implementation using TF Hub's efficientnet b0, able to achieve very competitive results
+Classification of skin lesions as benign or malignant. Very simple implementation using TF Hub's efficientnet b0, able to achieve very competitive results
 
 Could have very easily expanded on the feature extraction layer from efficientnet, top results were achieved using ensembles of neural networks and transformers, but this was just a simple walkthrough to show process and that decent results can be obtained quite easily.
 
