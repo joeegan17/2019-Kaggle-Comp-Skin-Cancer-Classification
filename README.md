@@ -6,3 +6,6 @@ Could have very easily expanded on the feature extraction layer from efficientne
 92% AUC on test set in best model.
 
 Note that this isn't exactly the same dataset as the one for the 2019 competition. I didn't have the labels for the competition test set, so I had to split the data into training, validation, and testing. therefore, it makes sense that I am seeing slightly lower metrics since there are fewer data to train on.
+
+
+Data available here: https://challenge.isic-archive.com/data/#2019
